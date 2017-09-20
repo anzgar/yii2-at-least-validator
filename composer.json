@@ -1,9 +1,9 @@
 {
-    "name": "codeonyii/yii2-at-least-validator",
-    "description": "Validates at least one (or more) attributes.",
+    "name": "anzgar/yii2-at-least-validator",
+    "description": "Validates at least one (or more) attributes. Russian language supported.",
     "type": "yii2-extension",
     "keywords": ["yii2","validator","at least","validation"],
-    "homepage": "https://github.com/code-on-yii/yii2-at-least-validator",
+    "homepage": "https://github.com/anzgar/yii2-at-least-validator",
     "license": "Apache 2.0",
     "authors": [
         {
