@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "codeonyii\\yii2validators\\": ""
+            "anzgar\\yii2validators\\": ""
         }
     },
     "require-dev": {
